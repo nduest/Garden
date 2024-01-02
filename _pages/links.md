@@ -7,7 +7,7 @@ permalink: /links
 <div>
   <h1 class="post-title">All links</h1>
 
-  {% for project in site.data.links %}
+  {% for link in site.data.links %}
   
   <div class="list-entry">
     <div><a target="_blank" rel="noopener" href="{{ link.url }}">{{ link.name }}</a> <span class="faded">({{ link.date | date: "%Y-%m-%d" }})</span></div>
