@@ -1,7 +1,7 @@
 ---
-title: Building a fully static guestbook using Jekyll and Netlify
+title: Annex Engineering Panel Clips
 layout: post
-slug: "building-fully-static-guestbook-jekyll-netlify"
+slug: "annex-panel-clips"
 excerpt: No JavaScript. Just good old HTTP and HTML working together.
 image: https://images.unsplash.com/photo-1561430900-60ff590e3c94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80
 ---
